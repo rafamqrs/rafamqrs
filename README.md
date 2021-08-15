@@ -7,6 +7,6 @@ My name is Rafael and I'm Full Stack developer. Enthusiastic about new technolog
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamqrs/)](https://www.linkedin.com/in/rafamqrs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafamqrs@gmail.com)](mailto:rafamqrs@gmail.com/)
 
-![Rafael' GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamqrs&show_icons=true)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamqrs&show_icons=true)
 
 
