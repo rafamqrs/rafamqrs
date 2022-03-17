@@ -2,6 +2,9 @@
 ###  Welcome to my profile :octocat:
 My name is Rafael. Enthusiastic about new technologies in software development, Middleware technologies, always learning with Openshit e Kubernetes. 
 
+### Bienvenido a mi perfil: 
+Me llamo Rafael, soy un entusiasta con las nuevas tecnologias, principalmente cuando hablamos de desarrollo de software. 
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafamqrs)](https://github.com/rafamqrs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamqrs/)](https://www.linkedin.com/in/rafamqrs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafamqrs@gmail.com)](mailto:rafamqrs@gmail.com/)
